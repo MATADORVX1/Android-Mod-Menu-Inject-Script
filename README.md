@@ -1,4 +1,4 @@
-# Android-Mod-Menu-Inject-Script
+# Android-Mod-Menu-Inject-Script 
+# O inject pega em root , emulador e vphonegaga
 Inject kmitre and  c++
-O inject pega em root , emulador e vphonegaga
 By Alexandre
